@@ -5,7 +5,7 @@ nav_order: 2
 description: Course structure and policies.
 ---
 
-# Syllabus 📖
+# Syllabus
 {:.no_toc}
 
 
@@ -17,7 +17,7 @@ description: Course structure and policies.
 
 ---
 
-## About This Course🧐
+## About This Course
 
 - How do we know if an avocado is going to be ripe before we eat it? 
 - How do we predict the salary of a future data scientist?
@@ -29,11 +29,11 @@ But how do we learn from data? This is the central question of DSC 40A. We will 
 
 ---
 
-## Communication 💬
+## Communication
 
-This quarter, we'll be using [Campuswire](https://campuswire.com/p/GAA3B3FEA) as our course message board. You should be added to Campuswire automatically; if not, you can add yourself. Please join right away as we'll be making all course announcements through Campuswire.
+This quarter, we'll be using [Campuswire](https://campuswire.com/c/GC017D375) as our course message board. You should be added to Campuswire automatically; if not, you can add yourself. Please join right away as we'll be making all course announcements through Campuswire.
 
-If you have a question about anything to do with the course — if you're stuck on a problem, didn't understand something from lecture, want clarification on course logistics, or just have a general question about data science — you can make a post on Campuswire. We only ask that if your question includes some or all of an answer (even if you're not sure it's right), please make your post private so that others cannot see it. You can also post anonymously if you would prefer.
+If you have a question about anything to do with the course — if you're stuck on a problem, didn't understand something from lecture, want clarification on course logistics, or just have a general question about data science — you can make a post on Campuswire. We only ask that if your question includes some or all of an answer (even if you're not sure it's right), please make your post private so that others cannot see it.
 
 Course staff will regularly check Campuswire and try to answer any questions that you have. You're also encouraged to answer questions asked by other students. Explaining something is a great way to solidify your understanding of it!
 
@@ -41,54 +41,48 @@ We won't be using the direct messaging (DM) functionality of Campuswire, nor wil
 
 ---
 
-## Technology 💻
+## Technology
 
 We will be using several websites this quarter. Here's what they're all used for:
 
-- [Course Website](https://dsc40a.com): where all content will be posted.
-- [Campuswire](https://campuswire.com/p/GAA3B3FEA): discussion forum for announcements and communication.
-- [Gradescope](https://www.gradescope.com/courses/528124): platform for submitting assignments and viewing grades. You should be automatically added to Gradescope; let us know if not.
+- [Course Website](https://mlis-lab.github.io/dsc40a-su23): where all content will be posted.
+- [Campuswire](https://campuswire.com/c/GC017D375): discussion forum for announcements and communication.
+- [Gradescope](https://www.gradescope.com/courses/552971): platform for submitting assignments and viewing grades. You should be automatically added to Gradescope; let us know if not.
 - [Datahub](https://datahub.ucsd.edu): UCSD's data science and machine learning platform, for coding in Jupyter notebooks.
 
 ---
 
-## Course Structure 🍎
+## Course Structure
 
-This course will include in-person lectures, groupwork sessions in discussion section, and weekly homework assignments.
+This course will include lectures via zoom, groupwork sessions in discussion section (also via zoom), and weekly homework assignments.
 
 ### Lecture
 
-There are two lecture sections:
-- A00: MWF 10-10:50am in [WLH 2204](https://map.concept3d.com/?id=1005#!m/246292)
-- B00: MWF 11-11:50am in [WLH 2204](https://map.concept3d.com/?id=1005#!m/246292)
-
 Lecture is meant to introduce you to the main concepts of the course. Attendance is highly encouraged and positively correlated with success in the course, though it will not be required. Attending lecture gives you the opportunity to ask questions, answer ungraded concept-check polls, and participate in discussion.
 
-Lectures will be podcasted recordings will be [available online](https://podcast.ucsd.edu/) within a few hours.
+Lectures will be posted on campuswire within a few hours, we will provide links on the course webpage.
 
-You can attend any lecture section, but if space fills up, priority will be given to students officially enrolled in that section. For the midterm exam, you must attend the lecture section in which you are officially enrolled.
+In-person attendence is not required unless a midterm or final is taking place. 
 
-See the homepage of this website and the [Resources](../resources) tab for access to helpful resources that will help solidify your understanding of concepts covered in lecture. These include videos, slides, readings, and sometimes code. These will be your primary resources in this class, as there is no formal textbook.
+See the homepage of this website and the [resources](../resources) tab for access to helpful resources that will help solidify your understanding of concepts covered in lecture. These include videos, slides, readings, and sometimes code. These will be your primary resources in this class, as there is no formal textbook.
 
 ### Discussion
 
-Discussion sections will be primarily used to facilitate problem-solving in small groups with peers. There are two discussion sections on Wednesday evenings:
-- A00: Weds 7-7:50pm in [FAH 1101](https://map.concept3d.com/?id=1005#!m/610083)
-- B00: Weds 8-8:50pm in [FAH 1101](https://map.concept3d.com/?id=1005#!m/610083)
+Discussion sections will be primarily used to facilitate problem-solving in small groups with peers. There is one discussion section on Fridays at noon.
 
 We will provide a worksheet of problems, which you will complete in a group of two to four students. The groupwork should help reinforce concepts from the lecture and prepare you to do the upcoming homework assignment. 
 
-You must attend the discussion section you are officially enrolled in. **Attendance at discussion section is required for full credit on the groupwork, but if you cannot attend, you may complete the groupwork worksheet in a self-organized group of two to four students outside of the discussion section for 80 percent credit.** 
+**Attendance at discussion section is required for full credit on the groupwork, but if you cannot attend, you may complete the groupwork worksheet in a self-organized group of two to four students outside of the discussion section for 80 percent credit.** 
 
 If you have specific people in your section that you want to work with, you may work together, otherwise, the TA will pair you with other students.
 
-Submit your worksheet to Gradescope by 11:59pm on Wednesday night. Only one member of each group should submit the worksheet, and they should indicate the names of all group members on Gradescope. Worksheets won’t be graded on correctness, but rather on good-faith effort. Even if you don’t solve any of the problems, you should include some explanation of what you thought about and discussed, so that you can get credit for spending time on the assignment. **In order to receive credit, you must work in a group of two to four students for at least 50 minutes. You may not do the groupwork alone.**
+Submit your worksheet to Gradescope by 11:59pm on Friday night. Only one member of each group should submit the worksheet, and they should indicate the names of all group members on Gradescope. Worksheets won’t be graded on correctness, but rather on good-faith effort. Even if you don’t solve any of the problems, you should include some explanation of what you thought about and discussed, so that you can get credit for spending time on the assignment. **In order to receive credit, you must work in a group of two to four students for at least 50 minutes. You may not do the groupwork alone.**
 
 ### Homeworks
 
 This class will have weekly homework assignments, which will be due to Gradescope on Tuesdays at 11:59pm.
 
-Homeworks should be written or typed up and turned in by each student individually. If you want to type up your answers, we will provide a LaTeX template through Overleaf; click the 🍃 emoji next to each homework on the homepage to access the template. Follow [these instructions](https://www.overleaf.com/learn/how-to/Copying_a_project#Making_a_copy_of_a_project) to make a copy of the template, and then add your solutions. 
+Homeworks should be written or typed up and turned in by each student individually. 
 
 You may talk to other students in the class about the problems and discuss solution strategies, but you should not share any written communication. You can tell someone how to do a homework problem, but you cannot show them how to do it. One way to tell if you are respecting this boundary is to ask yourself whether your collaboration could take place over the phone. Additionally, the content of your verbal communication should involve the problem-solving strategy and approach, and you should not directly compare answers with classmates.
 
@@ -101,7 +95,7 @@ As a result of this collaboration policy, students may have similar approaches t
 
 For each problem you submit, you should cite your sources by including a list of names of other students with whom you discussed the problem. Instructors do not need to be cited.
 
-We also encourage you to come to instructor and staff office hours for help on homework questions. The homework assignments for this class are quite challenging and most students are not able to successfully complete the homework from attending lecture alone. Make sure to use the resources provided on the [Resources](../resources) tab of the course website, actively participate in groupwork sessions, and plan to attend office hours at least once a week. Even if you don’t have specific questions, you will likely get a lot out of conversing about the material. See the [Calendar](../calendar) tab of the course website for the most up-to-date schedule of office hours, and directions for how to find us!
+We also encourage you to come to instructor and staff office hours for help on homework questions. The homework assignments for this class are quite challenging and most students are not able to successfully complete the homework from attending lecture alone. Make sure to use the resources provided on the [resources](../resources) tab of the course website, actively participate in groupwork sessions, and plan to attend office hours at least once a week. Even if you don’t have specific questions, you will likely get a lot out of conversing about the material. See the [calendar](../calendar) tab of the course website for the most up-to-date schedule of office hours.
 
 You may post homework-related questions on Campuswire, though your questions (and answers) should be about approaches, not answers. If your question includes some or all of an answer (even if you're not sure it's right), you must make your post private so that others cannot see it. We are not able to tell you whether your answer is correct. 
 
@@ -111,27 +105,25 @@ To summarize, here's what a typical week will look like in the course (there may
 
 | Sunday | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday |
 | -- | -- | -- | -- | -- | -- | -- |
-| | Lecture |  | Lecture and Discussion |  | Lecture |  |
-| | | **Homework due 11:59pm** | **Groupwork due 11:59pm** | | | |
+| | Lecture |  | Lecture |  | Discussion |  |
+| | | **Homework due 11:59pm** | | | **Groupwork due 11:59pm**| |
 
 ---
 
-## Exams 🧪
+## Exams
 
-There will be two midterm exams (not cumulative) and a final exam broken into two separate parts. 
+There will be one midterm and one final exam:
 
-- Midterm 1: Friday, May 5, in-person during lecture (10am for A00, 11am for B00)
-- Midterm 2:  Monday, June 5, in-person during lecture (10am for A00, 11am for B00)
-- Final, Part 1: Saturday, June 10, in-person from 9-9:50am
-- Final, Part 2: Saturday, June 10, in-person from 10-10:50am
+- Midterm: Wednesday, July 19, in-person during lecture at 8am in RWAC 0115
+- Final: Friday, August 4th, in person at 8am (location TBD)
 
-The final exam for this course will consist of two parts, which will be graded separately: part one will cover the material of the first midterm, and part two will cover the material of the second midterm. If you do better on either part of the final than the corresponding midterm, then your score on that part will replace your score on the midterm. If you do better on both parts, then both scores can be replaced. This gives you two chances to demonstrate understanding of the course material, once during the quarter and once after the quarter.  This also allows you to miss one or both midterms if necessary, and it makes the final exam optional if you've taken both midterms. You can take both parts of the final, just one part, or neither. If you are happy with both midterm scores, for example, you don’t need to take the final at all. 
+The final exam for this course will consist of two parts, which will be graded separately: part one will cover the material of the midterm, and part two will cover the material following the midterm. If you do better on part one than the midterm, then your score on that part will replace your score on the midterm. 
 
 Exams should be taken completely alone, with no collaboration or communication with any other person. We may utilize randomization and multiple versions to ensure the integrity of exams.
 
 ---
 
-## Policies ✏️
+## Policies
 
 ### Grading
 
@@ -141,7 +133,8 @@ Here's how we will compute your grade.
 | --- | --- | --- |
 | Homework | 40% | drop lowest |
 | Groupwork | 10% | drop lowest |
-| Exams | 50% | MEAN(MAX(Midterm 1, Final Part 1), MAX(Midterm 2, Final Part 2)) |
+| Midterm | 25% | |
+| Final | 25% | |
 
            
 ### Late Policy, Slip Days, and Drops
@@ -198,7 +191,7 @@ Try your best not to worry about grades, and we'll reciprocate by being fair. We
 
 ---
 
-## Support 🤝
+## Support
 
 ### Accommodations
 
@@ -215,6 +208,6 @@ We also expect that you, as a student in this course, will honor and respect you
 
 ---
 
-## Acknowledgements 🙏
+## Acknowledgements
 
-Thanks to other instructors of this course who have made various contributions, including but not limited to Justin Eldridge, Suraj Rampure, Yian Ma, and Gal Mishne. Thanks also to the many tutors and TAs who have supported this course since its inception!
+Thanks to other instructors of this course who have made various contributions, including but not limited to Janine Tiefenbruck, Justin Eldridge, Suraj Rampure, Yian Ma, and Gal Mishne. Thanks also to the many tutors and TAs who have supported this course since its inception!

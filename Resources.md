@@ -5,7 +5,7 @@ description: Resources to help you succeed in the course.
 nav_order: 4
 ---
 
-# Resources 📚
+# Resources
 {:.no_toc}
 
 ## Table of contents
@@ -16,7 +16,7 @@ nav_order: 4
 
 ## Lecture Videos
 
-These are a set of lecture videos that I recorded when I taught this course asynchronously during the pandemic. Our in-person lectures this quarter will cover similar content, so these videos can be a helpful tool for you to prepare for lecture or review afterwards. You are responsible for all material covered in this quarter's lectures, whether or not that material is covered in this set of lecture videos.
+These are a set of lecture videos that Janine Tiefenbruck recorded when she taught this course asynchronously during the pandemic. Our in-person lectures this quarter will cover similar content, so these videos can be a helpful tool for you to prepare for lecture or review afterwards. You are responsible for all material covered in this quarter's lectures, whether or not that material is covered in this set of lecture videos.
 
 | **Video** | **Topics** |
 | --- | --- |
@@ -49,7 +49,7 @@ These are a set of lecture videos that I recorded when I taught this course asyn
 |[Video 27](https://youtu.be/4tGtziW901Y)| text classification, spam filter, naive Bayes | 
 
 ## Course Notes
-The notes for this class were written by me and Justin Eldridge. These notes cover the material from the first half of the course and align very closely with the material you'll see in the lecture videos.
+The notes for this class were written by Janine Tiefenbruck and Justin Eldridge. These notes cover the material from the first half of the course and align very closely with the material you'll see in the lecture videos.
 - [Chapter 1: Learning via Optimization](resources/notes/notes_chapter_1.pdf)
 - [Supplement on Spread](resources/notes/spread.pdf)
 - [Chapter 2: Least Squares Regression](resources/notes/notes_chapter_2.pdf)
@@ -73,10 +73,10 @@ Unlike the first half of the course, where we had course notes written specifica
 - [Khan Academy: Counting, Permutations, and Combinations](https://www.khanacademy.org/math/statistics-probability/counting-permutations-and-combinations#combinatorics-probability): Khan Academy has a good unit called Counting, Permutations, and Combinations that should be pretty helpful for the combinatorics we are learning in this class. A useful aspect of it is the practice questions that combine permutations and combinations. Most students find that the hardest part of these counting problems is knowing when to use permutations and when to use combinations. These practice questions have them mixed together, so you really get practice learning which is the right technique to apply to which situation.
 
 ### Probability Roadmap
-I wrote a "Probability Roadmap" that aims to guide students through the process of solving probability problems. I hope you'll find it useful! It comes in three versions:
-- [Examples](../resources/probability/Probability_Roadmap_With_Examples.pdf): This document consists of strategies followed by example problems that employ those strategies. If you're looking to gain additional practice, start here.
-- [Solutions](../resources/probability/Probability_Roadmap_With_Solutions.pdf): This document contains solutions and explanations for all of the example problems in the first document. After you've attempted the problems on your own, read through this full document. Even if you've solved all the questions, you're likely to learn how to do some problems in new ways.
-- [Summary](../resources/probability/Probability_Roadmap_Summary.pdf): This document is a concise summary and contains only the strategies themselves.
+Janine Tiefenbruck wrote a "Probability Roadmap" that aims to guide students through the process of solving probability problems. We hope you'll find it useful! It comes in three versions:
+- [Examples](resources/probability/Probability_Roadmap_With_Examples.pdf): This document consists of strategies followed by example problems that employ those strategies. If you're looking to gain additional practice, start here.
+- [Solutions](resources/probability/Probability_Roadmap_With_Solutions.pdf): This document contains solutions and explanations for all of the example problems in the first document. After you've attempted the problems on your own, read through this full document. Even if you've solved all the questions, you're likely to learn how to do some problems in new ways.
+- [Summary](resources/probability/Probability_Roadmap_Summary.pdf): This document is a concise summary and contains only the strategies themselves.
 
 ### Visualizations
 
