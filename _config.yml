@@ -17,7 +17,7 @@ title: DSC 40A
 description: DSC 40A, Summer 2023 at UC San Diego
 tagline: Theoretical Foundations of Data Science
 baseurl: '/' # the subpath of your site, e.g. /blog
-url: 'https://mlis-lab.github.io/dsc40a-su23' # the base hostname & protocol for your site, e.g. http://example.com
+url: 'https://rodalbuyeh.github.io/dsc40a-su23' # the base hostname & protocol for your site, e.g. http://example.com
 author: Rod Albuyeh
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
 
