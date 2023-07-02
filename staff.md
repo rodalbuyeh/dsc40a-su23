@@ -7,16 +7,23 @@ nav_order: 7
 
 # Staff
 
-## Instructors
+## Instructor
 
 {% assign instructors = site.staffers | where: 'role', 'Instructor' %}
 {% for staffer in instructors %}
 {{ staffer }}
 {% endfor %}
 
-## Course Staff
+## TAs
 
-{% assign staff = site.staffers | where: 'role', 'Staff' %}
+{% assign staff = site.staffers | where: 'type', 'TA' %}
+{% for staffer in staff %}
+{{ staffer }}
+{% endfor %}
+
+## Tutors
+
+{% assign staff = site.staffers | where: 'type', 'Tutor' %}
 {% for staffer in staff %}
 {{ staffer }}
 {% endfor %}

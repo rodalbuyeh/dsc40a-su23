@@ -72,7 +72,7 @@ Discussion sections will be primarily used to facilitate problem-solving in smal
 
 We will provide a worksheet of problems, which you will complete in a group of two to four students. The groupwork should help reinforce concepts from the lecture and prepare you to do the upcoming homework assignment. 
 
-**Attendance at discussion section is required for full credit on the groupwork, but if you cannot attend, you may complete the groupwork worksheet in a self-organized group of two to four students outside of the discussion section for 80 percent credit.** 
+**Attendance at discussion section is required for full credit on the groupwork, but if you cannot attend, you may complete the groupwork worksheet in a self-organized group of two to four students outside of the discussion section for 95 percent credit.** 
 
 If you have specific people in your section that you want to work with, you may work together, otherwise, the TA will pair you with other students.
 
