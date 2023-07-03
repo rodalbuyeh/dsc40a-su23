@@ -4,9 +4,9 @@
     days:
       - date: 2023-7-3
         events:
-          "**MOD 1**{: .label .label-lecture } [Learning from Data](resources/lectures/module_1_learning_from_data.pdf)": "[📖 pg 1-5](resources/notes/notes_chapter_1.pdf#page=1)"
-          "**MOD 2**{: .label .label-lecture } [Minimizing Mean Absolute Error](resources/lectures/module_2_minimizing_mean_absolute_error.pdf)": "[📖 pg 5-9](resources/notes/notes_chapter_1.pdf#page=5)"
-          "**MOD 3**{: .label .label-lecture } [Mean Squared Error and Empirical Risk Minimization](resources/lectures/module_3_mean_squared_error_and_empirical_risk.pdf)": "[📖 pg 9-12](resources/notes/notes_chapter_1.pdf#page=9)"
+          "**MOD 1**{: .label .label-lecture } [Learning from Data](resources/lectures/module_1_learning_from_data.pdf) [✏️](resources/lectures/module_1_learning_from_data_annotated.pdf)": "[📺](https://podcast.ucsd.edu/watch/s123/dsc40a_a00/1) [📖 pg 1-5](resources/notes/notes_chapter_1.pdf#page=1)"
+          "**MOD 2**{: .label .label-lecture } [Minimizing Mean Absolute Error](resources/lectures/module_2_minimizing_mean_absolute_error.pdf) [✏️](resources/lectures/module_2_minimizing_mean_absolute_error_annotated.pdf)": "[📖 pg 5-9](resources/notes/notes_chapter_1.pdf#page=5)"
+          "**MOD 3**{: .label .label-lecture } [Mean Squared Error and Empirical Risk Minimization](resources/lectures/module_3_mean_squared_error_and_empirical_risk.pdf) [✏️](resources/lectures/module_3_mean_squared_error_and_empirical_risk_annotated.pdf)": "[📖 pg 9-12](resources/notes/notes_chapter_1.pdf#page=9)"
           "**SUR**{: .label .label-survey } [Beginning of Quarter Survey](https://forms.gle/sLFFEZRmjpKACycu7)":
       - date: 2023-7-5
         events:
