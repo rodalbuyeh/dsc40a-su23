@@ -13,7 +13,7 @@ nav_order: 1
 {{ site.staffersnobio }}
 
 
-Click the 📺 icons below to view lecture recording. 
+Click the 📺 icons below to view lecture recording, and ✏️ for annotated notes. 
 
 
 
