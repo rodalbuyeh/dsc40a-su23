@@ -8,6 +8,9 @@
           "**MOD 2**{: .label .label-lecture } [Minimizing Mean Absolute Error](resources/lectures/module_2_minimizing_mean_absolute_error.pdf) [✏️](resources/lectures/module_2_minimizing_mean_absolute_error_annotated.pdf)": "[📖 pg 5-9](resources/notes/notes_chapter_1.pdf#page=5)"
           "**MOD 3**{: .label .label-lecture } [Mean Squared Error and Empirical Risk Minimization](resources/lectures/module_3_mean_squared_error_and_empirical_risk.pdf) [✏️](resources/lectures/module_3_mean_squared_error_and_empirical_risk_annotated.pdf)": "[📖 pg 9-12](resources/notes/notes_chapter_1.pdf#page=9)"
           "**SUR**{: .label .label-survey } [Beginning of Quarter Survey](https://forms.gle/sLFFEZRmjpKACycu7)":
+      - date: 2023-7-4
+        events:
+          "**HW 1**{: .label .label-hw } [Homework 1](resources/homeworks/homework_1.pdf)": 
       - date: 2023-7-5
         events:
           "**MOD 4**{: .label .label-lecture } [Center and Spread, Other Loss Functions](resources/lectures/module_4_center_spread_other_loss.pdf)": "[📖 12-16](resources/notes/notes_chapter_1.pdf#page=12) + [📖](resources/notes/spread.pdf)"
