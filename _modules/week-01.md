@@ -16,4 +16,7 @@
           "**MOD 4**{: .label .label-lecture } [Center and Spread, Other Loss Functions](resources/lectures/module_4_center_spread_other_loss.pdf) [✏️](resources/lectures/module_4_center_spread_other_loss_annotated.pdf) [📺](https://podcast.ucsd.edu/watch/s123/dsc40a_a00/2)": "[📖 12-16](resources/notes/notes_chapter_1.pdf#page=12) + [📖](resources/notes/spread.pdf)"
           "**MOD 5**{: .label .label-lecture } [Gradient Descent](resources/lectures/module_5_gradient_descent.pdf) [✏️](resources/lectures/module_5_gradient_descent_annotated.pdf)": "[📖 15-17](resources/notes/notes_chapter_1.pdf#page=15)"
           "**MOD 6**{: .label .label-lecture } [Gradient Descent in Action](resources/lectures/module_6_gradient_descent_in_action.pdf) [✏️](resources/lectures/module_6_gradient_descent_in_action_annotated.pdf)":
+      - date: 2023-7-7
+        events:
+          "**HW 1**{: .label .label-disc } [Groupwork 1](resources/discussions/groupwork_1.pdf)": 
 ---
