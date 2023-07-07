@@ -18,5 +18,5 @@
           "**MOD 6**{: .label .label-lecture } [Gradient Descent in Action](resources/lectures/module_6_gradient_descent_in_action.pdf) [✏️](resources/lectures/module_6_gradient_descent_in_action_annotated.pdf)":
       - date: 2023-7-7
         events:
-          "**HW 1**{: .label .label-disc } [Groupwork 1](resources/discussions/groupwork_1.pdf)": 
+          "**GW 1**{: .label .label-disc } [Groupwork 1](resources/discussions/groupwork_1.pdf)": 
 ---
