@@ -12,7 +12,10 @@
           "**HW 2**{: .label .label-hw } [Homework 2](resources/homeworks/homework_2.pdf)": 
       - date: 2023-7-12
         events:
-          "**MOD 10**{: .label .label-lecture } [Regression Via Linear Algebra](resources/lectures/module_10_regression_via_linal.pdf)": "[📖 pg 9-11](resources/notes/notes_chapter_2.pdf#page=9)"
-          "**MOD 11**{: .label .label-lecture } [The Normal Equations](resources/lectures/module_11_normal_equations.pdf)": "[📖 pg 11-14](resources/notes/notes_chapter_2.pdf#page=11)"
-          "**MOD 12**{: .label .label-lecture } [Multiple Linear Regression and Feature Engineering](resources/lectures/module_12_mlr_and_fe.pdf)": "[📖 pg 14-19](resources/notes/notes_chapter_2.pdf#page=14)"
+          "**MOD 10**{: .label .label-lecture } [Regression Via Linear Algebra](resources/lectures/module_10_regression_via_linal.pdf) [✏️](resources/lectures/module_10_regression_via_linal_annotated.pdf) [📺](https://podcast.ucsd.edu/watch/s123/dsc40a_a00/4)": "[📖 pg 9-11](resources/notes/notes_chapter_2.pdf#page=9)"
+          "**MOD 11**{: .label .label-lecture } [The Normal Equations](resources/lectures/module_11_normal_equations.pdf) [✏️](resources/lectures/module_11_normal_equations_annotated.pdf)": "[📖 pg 11-14](resources/notes/notes_chapter_2.pdf#page=11)"
+          "**MOD 12**{: .label .label-lecture } [Multiple Linear Regression and Feature Engineering](resources/lectures/module_12_mlr_and_fe.pdf) [✏️](resources/lectures/module_12_mlr_and_fe_annotated.pdf)": "[📖 pg 14-19](resources/notes/notes_chapter_2.pdf#page=14)"
+      - date: 2023-7-14
+        events:
+          "**GW 2**{: .label .label-disc } [Groupwork 2](resources/discussions/groupwork_2.pdf)": 
 ---
