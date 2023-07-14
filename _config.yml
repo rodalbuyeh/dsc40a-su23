@@ -93,7 +93,7 @@ callouts:
     title: Warning
     color: red
   important:
-    title: Important Announcement
+    title: Reminder
     color: blue
   note:
     title: "FYSA"

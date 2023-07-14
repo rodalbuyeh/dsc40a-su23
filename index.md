@@ -13,6 +13,9 @@ nav_order: 1
 {{ site.staffersnobio }}
 
 
+ {: .important } 
+Midterm is on Wednesday (7/19) during lecture. See pinned post in Campuswire for details on format. 
+
 Click the 📺 icons below to view lecture recording, and ✏️ for annotated notes. 
 
 
