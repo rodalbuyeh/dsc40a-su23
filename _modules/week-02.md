@@ -17,5 +17,5 @@
           "**MOD 12**{: .label .label-lecture } [Multiple Linear Regression and Feature Engineering](resources/lectures/module_12_mlr_and_fe.pdf) [✏️](resources/lectures/module_12_mlr_and_fe_annotated.pdf)": "[📖 pg 14-19](resources/notes/notes_chapter_2.pdf#page=14)"
       - date: 2023-7-14
         events:
-          "**GW 2**{: .label .label-disc } [Groupwork 2](resources/discussions/groupwork_2.pdf)": 
+          "**GW 2**{: .label .label-disc } [Groupwork 2](resources/discussions/groupwork_2.pdf) [📺](https://podcast.ucsd.edu/watch/s123/dsc40a_a01/2)": 
 ---
