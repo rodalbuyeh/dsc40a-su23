@@ -13,8 +13,8 @@ nav_order: 1
 {{ site.staffersnobio }}
 
 
- {: .important } 
-Midterm is on Wednesday (7/19) during lecture. See pinned post in Campuswire for details on format. 
+ {: .note } 
+Final will be closed books/notes/electronics/web. You will be allowed to keep with you two A4-sized sheets (four sides) with any content you want.
 
 Click the 📺 icons below to view lecture recording, and ✏️ for annotated notes. 
 
