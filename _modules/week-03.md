@@ -12,5 +12,5 @@
           "**EXAM**{: .label .label-exam } Midterm": 
       - date: 2023-7-21
         events:
-          "**DISC**{: .label .label-disc } [Special Topics: Logistic Regression and Regularization](resources/discussions/LR_regularization_metrics.pdf) [📺](https://podcast.ucsd.edu/watch/s123/dsc40a_a01/3)": 
+          "**DISC**{: .label .label-disc } [Special Topics: Logistic Regression and Regularization](resources/discussions/LR_regularization_metrics_updated.pdf) [📺](https://podcast.ucsd.edu/watch/s123/dsc40a_a01/3)": 
 ---

@@ -10,4 +10,9 @@
       - date: 2023-7-25
         events:
           "**HW 3**{: .label .label-hw } [Homework 3](resources/homeworks/homework_3.pdf)": 
+      - date: 2023-7-26
+        events:
+          "**MOD 18**{: .label .label-lecture } [Probability and Combinatorics Examples](resources/lectures/module_18_probability_and_combinatorics_examples.pdf)":
+          "**MOD 19**{: .label .label-lecture } [More Probability and Combinatorics Examples](resources/lectures/module_19_more_probability_and_combinatorics_exs.pdf)": 
+          "**MOD 20**{: .label .label-lecture } [Total Law of Probability and Bayes' Theorem](resources/lectures/module_20_total_law_of_probability_and_bayes.pdf)": 
 ---
