@@ -14,7 +14,7 @@
         events:
           "**MOD 18**{: .label .label-lecture } [Probability and Combinatorics Examples](resources/lectures/module_18_probability_and_combinatorics_examples.pdf) [✏️](resources/lectures/module_18_probability_and_combinatorics_examples_annotated.pdf) [📺](https://podcast.ucsd.edu/watch/s123/dsc40a_a00/8)":
           "**MOD 19**{: .label .label-lecture } [More Probability and Combinatorics Examples](resources/lectures/module_19_more_probability_and_combinatorics_exs.pdf) [✏️](resources/lectures/module_19_more_probability_and_combinatorics_exs_annotated.pdf)": 
-          "**MOD 20**{: .label .label-lecture } [Total Law of Probability and Bayes' Theorem](resources/lectures/module_20_total_law_of_probability_and_bayes.pdf) [✏️](resources/lectures/module_20_total_law_of_probability_and_bayes_annotated.pdf)": 
+          "**MOD 20**{: .label .label-lecture } [Law of Total Probability and Bayes' Theorem](resources/lectures/module_20_total_law_of_probability_and_bayes.pdf) [✏️](resources/lectures/module_20_total_law_of_probability_and_bayes_annotated.pdf)": 
       - date: 2023-7-28
         events:
           "**GW 3**{: .label .label-disc } [Groupwork 3](resources/discussions/groupwork_3.pdf)": 
